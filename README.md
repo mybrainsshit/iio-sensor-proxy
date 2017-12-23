@@ -130,6 +130,7 @@ Tested on
 - HP Pavilion X360
 - HP Spectre x360 (Kaby Lake)
 - Lenovo IdeaPad Yoga 13
+- Lenovo ThinkPad Helix 3xxx (Ubuntu 16.04 Gnome 3.18 Kernel v4.4.0-104.127, and only this one)
 - Lenovo ThinkPad Twist
 - Lenovo X1 Carbon 2014 (rev2)
 - Lenovo X1 Tablet
